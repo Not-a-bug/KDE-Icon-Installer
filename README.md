@@ -44,5 +44,5 @@ Examples:
 
 ## Credits & Licenses
 
-All icons belong to their respective authors as described in the './icons' folder.
+All icons belong to their respective authors as described in the ['./icons'](https://github.com/Not-a-bug/KDE-Icon-Installer/tree/main/icons) folder.
 The code itself is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
