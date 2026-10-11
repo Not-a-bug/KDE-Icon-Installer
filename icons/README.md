@@ -4,6 +4,7 @@ All the icons created and licensed as per below table.
 |----|------|--------------|-------|
 |abandonware-256.png|Frédéric DE GOMBERT (alias Carnby)|[Abandonware-Definition](https://www.abandonware-definition.org/)|Free of rights|
 |ai-tools-control-ai-512.png|[Graficon](https://www.flaticon.com/fr/auteurs/graficon)|<a href="https://www.flaticon.com/fr/icones-gratuites/intelligence-artificielle" title="intelligence artificielle icônes">Intelligence artificielle icônes créées par Graficon - Flaticon</a>|Flaticon License|
+|ai-tools-control-chainner-512.png|[chaiNNer](https://chainner.app/download/)|[ChaiNNer Github](https://github.com/chaiNNer-org/chaiNNer)|GPLv3|
 |ai-tools-control-comfyui-512.png|[v3DJG6GL](https://github.com/v3DJG6GL)|[Dashboard Icons](https://dashboardicons.com/icons/comfyui)|© 2026 v3DJG6GL|
 |ai-tools-control-comfyui-dark-512.png|[v3DJG6GL](https://github.com/v3DJG6GL)|[Dashboard Icons](https://dashboardicons.com/icons/comfyui)|© 2026 v3DJG6GL|
 |ai-tools-control-llamacpp-512.png|[selfh.st](https://selfh.st/about/)|[Dashboard Icons](https://dashboardicons.com/icons/external/llama-cpp)|CC BY 4.0|
