@@ -17,8 +17,11 @@ All the icons created and licensed as per below table.
 |ai-tools-control-stop-512.png|[Bartama Graphic](https://www.flaticon.com/authors/bartama-graphic)|<a href="https://www.flaticon.com/free-icons/stop-sign" title="stop sign icons">Stop sign icons created by Bartama Graphic - Flaticon</a>|Flaticon License|
 |ai-tools-control-vllm-512.png|[selfh.st](https://selfh.st/about/)|[Dashboard Icons](https://dashboardicons.com/icons/external/vllm)|CC BY 4.0|
 |android-512.png|[selfh.st](https://selfh.st/about/)|[Dashboard Icons](https://dashboardicons.com/icons/external/android)|CC BY 4.0|
+|boat-detailed-flat-circular-512.png|[Magnific](https://www.flaticon.com/authors/magnific)|<a href="https://www.flaticon.com/free-icons/sail" title="sail icons">Sail icons created by Magnific - Flaticon</a>|Flaticon License|
 |cachyos-512.png|[selfh.st](https://selfh.st/about/)|[Dashboard Icons](https://dashboardicons.com/icons/external/cachyos)|CC BY 4.0|
 |cpu-512.png|[Magnific](https://www.flaticon.com/authors/magnific)|<a href="https://www.flaticon.com/free-icons/technology" title="technology icons">Technology icons created by Magnific - Flaticon</a>|Flaticon License|
+|deuxpartout-512.png|[Mathilde Ressier](https://unicorp.dev/)|N/A|© 2026 Mathilde Ressier|
+|deuxpartout-sci-512.png|[Mathilde Ressier](https://unicorp.dev/)|N/A|© 2026 Mathilde Ressier|
 |droiddeck-256.png|[Droid-Deck](https://github.com/Droid-Deck)|[Droid-Deck Github](https://github.com/Droid-Deck)|GPLv3|
 |evermor-design-smooth-social-gameboy-256.png|[Evermor Design (Jason Mortimer)](http://remitrom73.deviantart.com/)|[IconArchive.com](https://www.iconarchive.com/show/smooth-social-icons-by-evermor-design/Gameboy-icon.html)|Free for personal desktop use only|
 |feeder-256.png|[spacecowboy](https://github.com/spacecowboy) using [icon.kitchen](https://icon.kitchen/i/H4sIAAAAAAAAA31QTUvEMBD9K8t4XWFFF90eFXoSlO3eRJZpM00DaabmQy2l%2F91JQL1tDmHemzdvPhb4RJsoQLVAr0%2FzRFBBpO8I24xzUEFdQM1OgMhwNHYWumEXDG1eHEm%2BZaugij7RKkA%2FsWUvmqtd%2B7C7u80C3QxY7MNHQl9qUGn6V5Yn9BROJtqsrIkU%2BUJd6i4dpQa1NQIqODbN5kj4W%2Fmos%2Fv9ob057AvxjDOnvNdQ9voboC8vc8aSwzF7me5sMbluIH8e2XE3eJZErntFpYwT8wUiT1Dtt%2BCNHsRYopZj5LGElvrMrTLlyCrZfOw3QKc8GyVOhoP8X9Tm4SzO1yGynOd9%2FQGcSkgunAEAAA%3D%3D)|[Feeder Github](https://github.com/spacecowboy/Feeder/tree/master/graphics)|GPLv3|
@@ -28,11 +31,13 @@ All the icons created and licensed as per below table.
 |gears3-512.png|Microsoft / Epic Games / [mohitg](https://www.deviantart.com/mohitg/gallery)|[DeviantArt](https://www.deviantart.com/mohitg/art/Gears-of-War-3-Icon-274054061)|© 2011 - 2026 mohitg|
 |hexagon-itm-512.png|Hexagon ITM (Florian Mevrel)|N/A|© 2022 - 2026 Florian Mevrel|
 |infomaniak-kdrive-512.png|[Infomaniak](https://www.infomaniak.com/)|[Infomaniak kDrive](https://www.infomaniak.com/fr/ksuite/kdrive)|© 2026 Infomaniak|
+|mountain-geometric-flat-circular-512.png|[Magnific](https://www.flaticon.com/authors/magnific)|<a href="https://www.flaticon.com/free-icons/mountain" title="mountain icons">Mountain icons created by Magnific - Flaticon</a>|Flaticon License|
+|ogxbox-512.png|[juicy_fish](https://www.flaticon.com/authors/juicy-fish)|<a href="https://www.flaticon.com/free-icons/xbox" title="xbox icons">Xbox icons created by juicy_fish - Flaticon</a>|Flaticon License|
+|simply-styled-minecraft-256.png|[dAKirby309](https://www.deviantart.com/dakirby309)|[IconArchive.com](https://www.iconarchive.com/show/simply-styled-icons-by-dakirby309/Minecraft-icon.html)|CC Attribution-Noncommercial-No Derivate 4.0|
 |software-512.png|[Magnific](https://www.flaticon.com/authors/magnific)|<a href="https://www.flaticon.com/free-icons/programming-language" title="programming language icons">Programming language icons created by Magnific - Flaticon</a>|Flaticon License|
 |starfieldconstellation-256.png|Microsoft / Zenimax / Bethesda / [ABK](https://starfieldwiki.net/wiki/User:AKB)|[Starfield Wiki](https://starfieldwiki.net/wiki/File:SF-logo-Constellation.png)|© 2023 - 2026 ZeniMax Media Inc|
 |terminal-512.png|[Bjorn Lammers](https://github.com/lammersbjorn)|[Dashboard Icons](https://dashboardicons.com/icons/terminal)|© 2023 - 2026 Bjorn Lammers|
 |videogametrackarr-512.png|[selfh.st](https://selfh.st/about/)|[Dashboard Icons](https://dashboardicons.com/icons/external/videogametrackarr)|CC BY 4.0|
 |viva-128.png|[Infernos](https://www.mobygames.com/user/247452/infernos/)|[MobyGames](https://www.mobygames.com/game/25261/viva-pinata/promo/group-21866/image-218879/)|© 2017 - 2026 Infernos|
 |vivatip-256.png|Microsoft / Rare|[vivapinata.com](http://www.vivapinata.com/)|© 2006 Microsoft, Rare, 4Kids|
-|xbox-512.png|[juicy_fish](https://www.flaticon.com/authors/juicy-fish)|<a href="https://www.flaticon.com/free-icons/xbox" title="xbox icons">Xbox icons created by juicy_fish - Flaticon</a>|Flaticon License|
 |xenia-512.png|[Ben Vanik](http://noxa.org/)|[Xenia Github](https://github.com/xenia-canary/xenia-canary/tree/canary_experimental/assets/icon)|© 2015 Ben Vanik|
